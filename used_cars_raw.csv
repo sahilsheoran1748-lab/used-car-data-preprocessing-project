@@ -1,0 +1,16 @@
+Make,Model,Price,Mileage,Year,Fuel_Type,Transmission,Condition,Engine_Size
+Maruti,Swift,500000.0,"50,000 km",2018.0,Petrol,Manual,Good,1.2
+Hyundai,i20,700000.0,"30,000 km",2020.0,Diesel,Manual,Excellent,1.4
+Honda,City,900000.0,"45,000 km",2019.0,Petrol,Automatic,Good,1.5
+Toyota,Fortuner,3500000.0,"20,000 km",2021.0,Diesel,Automatic,,2.8
+BMW,X5,6000000.0,"15,000 km",2022.0,Petrol,Automatic,Excellent,3.0
+Audi,A4,4500000.0,"25,000 km",2023.0,Diesel,Automatic,Good,
+Maruti,Baleno,-5000.0,,2025.0,Petrol,Manual,Fair,1.2
+Hyundai,Creta,800000.0,"40,000 km",2030.0,,Manual,Good,1.5
+,Verna,650000.0,"35,000 km",2017.0,Petrol,Automatic,Excellent,1.4
+Honda,,1200000.0,"60,000 km",2016.0,Diesel,Manual,,1.5
+Toyota,Innova,,"55,000 km",2018.0,Petrol,,Good,2.4
+BMW,X3,5500000.0,"18,000 km",2020.0,Diesel,Automatic,Excellent,3.0
+Audi,A6,99999999.0,"22,000 km",2021.0,Petrol,Automatic,Good,2.0
+Maruti,Alto,400000.0,"70,000 km",1995.0,Petrol,Manual,Fair,0.8
+Hyundai,Venue,750000.0,"28,000 km",,Diesel,Manual,Excellent,1.0
